@@ -9,4 +9,4 @@ Kaggle link: https://www.kaggle.com/code/mertmesti/machine-learning-project/note
 
 
 
-proje Furkan Aktay ve Mert Mestçi tarafından yapılmıştır fakat Furkan aktay belirli sebeplerden ötürü projeyi teslim edememiştir.
+The project was made by Furkan Aktay and Mert Mestçi, but Furkan Aktay could not upload the project to Github due to certain circumstances.
