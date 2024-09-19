@@ -6,3 +6,7 @@ Decision trees were better at dealing with missing data than other models. There
 The KMeans clustering algorithm fits numerical data very well because this algorithm uses mathematical distances, such as the Euclidean distance, to measure the distances between data. This gives effective results, especially in data sets containing numerical variables.KMeans is used to find natural segments or clusters in the data set. For example, it grouped variables such as house prices or square meter values ​​according to their similarities. KMeans creates similar groups by bringing together houses with similar features among this numerical data.
 Looking at the results obtained, it appears that the model can successfully predict in KMeans and Decision Tree algorithms.
 Kaggle link: https://www.kaggle.com/code/mertmesti/machine-learning-project/notebook
+
+
+
+proje Furkan Aktay ve Mert Mestçi tarafından yapılmıştır fakat Furkan aktay belirli sebeplerden ötürü projeyi teslim edememiştir.
